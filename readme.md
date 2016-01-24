@@ -34,4 +34,4 @@ This will download the required package (plyr) and the required data from (https
 
 Include dataset
 
-The data is located in the results folder dataset1 <- read.csv("results/dataset1.txt") dataset2 <- read.csv("results/dataset2.txt") 
+The data is located in the results folder dataset1 <- read.table("results/dataset1.txt") dataset2 <- read.table("results/dataset2.txt") 
